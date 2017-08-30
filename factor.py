@@ -1,5 +1,7 @@
 print('To find a factor just type factor(number you want to find the factors of) into the console and type enter')
 
+##Find the factors of any number
+
 def factor(test_number):
     
     divisor = 1
